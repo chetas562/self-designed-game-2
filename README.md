@@ -1,2 +1,2 @@
-# self-designed-game-2
-under construction
+# p5.play-boilerplate
+Boiler plate for p5.play
